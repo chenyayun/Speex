@@ -58,7 +58,6 @@ SpeexEncoder.java：将音频编码成speex格式。
 
 ### 使用说明
 
-
 使用的时候拷贝libspeex-debug.aar到模块的lib目录下，并添加依赖即可。
 
-注：如需libspeex的源代码，请联系QQ:835405050
+注：libspeex的源代码付费获取请联系QQ:2060632083
